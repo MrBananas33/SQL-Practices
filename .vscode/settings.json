@@ -1,0 +1,21 @@
+{
+    "CodeGPT.Autocomplete.enabled": false,
+    "CodeGPT.apiKey": "LM Studio",
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "database": "Company_info",
+            "name": "SQL Server Connect",
+            "username": "sa",
+            "password": "Stoned3$"
+        }
+    ]
+}
